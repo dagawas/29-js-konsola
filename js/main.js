@@ -1,4 +1,4 @@
 let text = 'Uwielbiam Javascript';
 
 
-console.log(name);
+console.log(text);
